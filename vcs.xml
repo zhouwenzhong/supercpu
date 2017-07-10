@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/zhouwenzhong/LNBoxNewPlat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.oschina.net/bjlianyao/zcm" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Project/201601-netmeeting/06-Lntel/source" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/zcm" />
   </component>
 </application>
