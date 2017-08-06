@@ -14,6 +14,10 @@
           <option name="url" value="http://git.oschina.net/bjlianyao/zcm" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.oschina.net/bjlianyao/sxwhapp/invite?invite_id=1502006033&amp;inviter=bjlianyao&amp;level=developer&amp;secret_key=924b7128581a8f610df9fb7739ff73be" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/zcm" />
