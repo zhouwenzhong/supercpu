@@ -26,6 +26,14 @@
           <option name="url" value="http://git.oschina.net" />
           <option name="userName" value="bjlianyao@foxmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.oschina.net/bjlianyao/sxwhapp/tree/master/Sxwhapp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.oschina.net/bjlianyao/sxwhapp/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/guanggao" />
