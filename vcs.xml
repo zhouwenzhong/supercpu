@@ -48,6 +48,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/guanggao" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/guanggao/adDriver" />
   </component>
 </application>
