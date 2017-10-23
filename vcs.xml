@@ -56,6 +56,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/adOwner" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/" />
   </component>
 </application>
