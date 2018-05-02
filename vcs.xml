@@ -54,8 +54,20 @@
           <option name="url" value="https://gitee.com/bjlianyao/adOwner" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:bjlianyao/yueba.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/bjlianyao/yueba" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/bjlianyao/yueba.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/guanggao" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/yuebagit" />
   </component>
 </application>
